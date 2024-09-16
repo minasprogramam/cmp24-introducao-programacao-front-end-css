@@ -65,3 +65,28 @@ body, nav, main {
     text-align: center;
 }
 
+/* Formacao */
+
+#formacao {
+    background-color: #fff;
+    padding: 30px 80px;
+}
+
+.titulo_formacao {
+    color: #49BFB3;
+    font-size: 30px;
+}
+
+.conteudo_formacao {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.info_formacao {
+    width: 100%;
+    max-width: 600px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
