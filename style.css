@@ -90,3 +90,52 @@ body, nav, main {
     margin-bottom: 20px;
 }
 
+/* Portfolio */
+
+#portfolio {
+    background-color: #EDEAEA;
+    padding: 30px 60px;
+}
+
+.titulo_portfolio {
+    color: #49BFB3;
+    font-size: 30px;
+}
+
+.conteudo_portfolio {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.info_portfolio {
+    width: 100%;
+    max-width: 600px;
+}
+
+.info_portfolio h3 {
+    color: #555;
+    font-size: 18px;
+}
+
+#rodapé {
+    background-color: #5A53D8;
+    padding: 38px;
+    color: white;
+}
+
+.rodape_item span a {
+    color: white;
+}
+
+.rodape_item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 18px;
+}
+
+.rodape_icon {
+    width: 25px;
+    margin-right: 10px;
+}
+
